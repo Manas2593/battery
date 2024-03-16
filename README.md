@@ -35,7 +35,7 @@ Includes helper functions for generating donut charts and retrieving life expect
 
 - **Life Expectancy and Disease Risks:** The application also provides information on life expectancy risks based on the user's zip code and highlights any major health risks associated with the provided data.
 
-- To run the UI Interface on your local machine, run the following commands in your project's root directory. Use a stable internet connection while running the script
+## To run the UI Interface on your local machine, run the following commands in your project's root directory. Use a stable internet connection while running the script
 - ```
   streamlit run app.py
 ```
